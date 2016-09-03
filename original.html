@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+     #map {
+        width: 100%;
+        height: 400px;
+     }
+    </style>
+	<script src="js/jquery-1.10.2.js"></script>
+    <script>
+      var map;
+
+      function initialize() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 5,
+          center: new google.maps.LatLng(23.6345,-102.5528),
+          mapTypeId: 'terrain'
+        });
+
+         
+	  }
+
+      // Loop through the results array and place a marker for each
+      // set of coordinates.
+      $.getJSON('js/events.json', function(results) {
+        for (var i = 0; i < results.reports.length; i++) {
+          var coords = results.reports[i].media[0].where.geo_location;
+          var latLng = new google.maps.LatLng(coords.latitude,coords.longitude);
+        /*  var marker = new google.maps.Marker({
+            position: latLng,
+            map: map
+          });*/
+		  
+		  var marker=
+		  {
+			  markerpoint : new google.maps.Marker({
+				position: latLng,
+				map: map,
+				
+			  }),
+			  startup: function(){
+			  marker.markerpoint.onclick=function(){alert("Good");}
+			  }
+			  
+		  
+		  }
+		  //marker.markerpoint.addListener('click',function(){alert("Good");});
+		  marker.startup();
+        }
+      });
+    </script>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD0aC3cyf5-0XlU4YaxuGeo2D-jaiKLieM&callback=initialize">
+    </script>
+  </body>
+</html>

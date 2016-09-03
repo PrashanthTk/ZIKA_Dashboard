@@ -1,0 +1,4577 @@
+
+{
+  "reports": [
+    {
+      "id": "DhUq8JmQon",
+      "media": [
+        {
+          "when": {
+            "start_time": "2016-07-19T16:59:47.637Z",
+            "end_time": "2016-07-19T16:59:47.637Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": -21.226929,
+              "longitude": -44.980896
+            },
+            "revgeo_places": [
+              {
+
+                "latitude": -21.226988,
+                "longitude": -44.0
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 1,
+              "dod": 1,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "Tkma6fIfAX",
+              "intent_emoji_unicode": "1f6af"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/91f8a2ac-e630-4263-b1ea-8ae70bf03ff2.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/91f8a2ac-e630-4263-b1ea-8ae70bf03ff2.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-19T16:59:48.122Z",
+            "end_time": "2016-07-19T17:00:20.814Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": -21.226929,
+              "longitude": -44.980896
+            },
+            "revgeo_places": [
+              {
+
+                "latitude": -21.226988,
+                "longitude": -44.0
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 32692,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/48091078-048b-4bf0-9c93-cc8928ccd90e.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-19T16:59:47.637Z",
+      "end_time": "2016-07-19T17:00:20.814Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-day",
+          "record_time": 1468947587,
+          "temperature": 23.86,
+          "max_temperature_day": 23.86,
+          "max_temperature_record_time": 1468947600,
+          "min_temperature_day": 8.58,
+          "min_temperature_record_time": 1468915200,
+          "humidity": 0.48,
+          "pressure": 1018.42,
+          "wind_speed": 2.27,
+          "wind_bearing": 339,
+          "cloud_cover": 0.01,
+          "summary": "Clear"
+        }
+      }
+    },
+    {
+      "id": "ouYYLVXzyY",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "people",
+              "confidence": 0.9939916
+            },
+            {
+              "concept_name": "adult",
+              "confidence": 0.9779519
+            },
+            {
+              "concept_name": "one",
+              "confidence": 0.9667553
+            },
+            {
+              "concept_name": "girl",
+              "confidence": 0.96194327
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-18T22:01:30.075Z",
+            "end_time": "2016-07-18T22:01:30.075Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64333,
+              "longitude": -117.841995
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 5,
+              "dod": 8,
+
+              "intent_category_name": "Outros",
+              "intent_emoji_id": "ir2305PN0C",
+              "intent_emoji_unicode": "2615"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/86f9e331-a40a-4a51-a0eb-35296c6c0e0d.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/86f9e331-a40a-4a51-a0eb-35296c6c0e0d.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-18T22:01:31.372Z",
+            "end_time": "2016-07-18T22:01:39.61Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64333,
+              "longitude": -117.841995
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 8238,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/795b5572-a6c9-4b87-aab6-5b107383c599.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-18T22:01:30.075Z",
+      "end_time": "2016-07-18T22:01:39.61Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-day",
+          "record_time": 1468879290,
+          "temperature": 25.57,
+          "max_temperature_day": 25.59,
+          "max_temperature_record_time": 1468879200,
+          "min_temperature_day": 18.63,
+          "min_temperature_record_time": 1468825200,
+          "humidity": 0.61,
+          "pressure": 1015,
+          "wind_speed": 3.16,
+          "wind_bearing": 252,
+          "cloud_cover": 0.01,
+          "summary": "Clear"
+        }
+      }
+    },
+    {
+      "id": "tB1qF2X2xU",
+      "media": [
+        {
+          "when": {
+            "start_time": "2016-07-18T17:49:25.866Z",
+            "end_time": "2016-07-18T17:49:25.866Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 2,
+              "dod": 2,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "QTXpaOFUXP",
+              "intent_emoji_unicode": "1f6b0"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "username": "taisaufla13@gmail.com",
+                "first_name": "JohnQ",
+                "last_name": "Public",
+                "email": "taisaufla13@gmail.com"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/6d88fca7-79f5-4c39-8313-903adb54ce1c.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/6d88fca7-79f5-4c39-8313-903adb54ce1c.jpeg"
+          },
+
+          "media_type": "photo"
+        }
+      ],
+      "start_time": "2016-07-18T17:49:25.866Z",
+      "end_time": "2016-07-18T17:49:25.866Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-day",
+          "record_time": 1468864165,
+          "temperature": 24.5,
+          "max_temperature_day": 25.56,
+          "max_temperature_record_time": 1468882800,
+          "min_temperature_day": 23.89,
+          "min_temperature_record_time": 1468818000,
+          "humidity": 0.77,
+          "pressure": 1014.41,
+          "wind_speed": 4.98,
+          "wind_bearing": 175,
+          "cloud_cover": 0.51,
+          "summary": "Partly Cloudy"
+        }
+      }
+    },
+    {
+      "id": "ppPbVUQSgR",
+      "media": [
+        {
+          "when": {
+            "start_time": "2016-07-18T13:00:28.552Z",
+            "end_time": "2016-07-18T13:00:28.552Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": -21.226732,
+              "longitude": -44.994236
+            },
+            "revgeo_places": [
+              {
+
+                "country": "Brasil",
+                "latitude": -21.22654,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 4,
+              "dod": 1,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "Bje5TEysmt",
+              "intent_emoji_unicode": "1F370"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "username": "mynevidal@gmail.com",
+                "first_name": "JohnQ",
+                "last_name": "Public",
+                "email": "mynevidal@gmail.com"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/0353cd35-e819-4551-997c-5a13a070ed9f.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/0353cd35-e819-4551-997c-5a13a070ed9f.jpeg"
+          },
+
+          "media_type": "photo"
+        }
+      ],
+      "start_time": "2016-07-18T13:00:28.552Z",
+      "end_time": "2016-07-18T13:00:28.552Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-day",
+          "record_time": 1468846828,
+          "temperature": 17.12,
+          "max_temperature_day": 24.61,
+          "max_temperature_record_time": 1468861200,
+          "min_temperature_day": 6.54,
+          "min_temperature_record_time": 1468828800,
+          "humidity": 0.57,
+          "pressure": 1021.06,
+          "wind_speed": 1.75,
+          "wind_bearing": 100,
+          "summary": "Clear"
+        }
+      }
+    },
+    {
+      "id": "MaUJdHZXJu",
+      "media": [
+        {
+          "when": {
+            "start_time": "2016-07-18T12:59:52.816Z",
+            "end_time": "2016-07-18T12:59:52.816Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": -21.226706,
+              "longitude": -44.994244
+            },
+            "revgeo_places": [
+              {
+
+                "country": "Brasil",
+                "latitude": -21.22654,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 4,
+              "dod": 5,
+
+              "intent_category_name": "Foco-Lugar",
+              "intent_emoji_id": "WaSna2m0A2",
+              "intent_emoji_unicode": "1f3da"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "username": "mynevidal@gmail.com",
+                "first_name": "JohnQ",
+                "last_name": "Public",
+                "email": "mynevidal@gmail.com"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/adb3936a-1932-4cac-8256-e18ce9f9c214.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/adb3936a-1932-4cac-8256-e18ce9f9c214.jpeg"
+          },
+
+          "media_type": "photo"
+        }
+      ],
+      "start_time": "2016-07-18T12:59:52.816Z",
+      "end_time": "2016-07-18T12:59:52.816Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-day",
+          "record_time": 1468846792,
+          "temperature": 17.09,
+          "max_temperature_day": 24.61,
+          "max_temperature_record_time": 1468861200,
+          "min_temperature_day": 6.54,
+          "min_temperature_record_time": 1468828800,
+          "humidity": 0.57,
+          "pressure": 1021.06,
+          "wind_speed": 1.75,
+          "wind_bearing": 100,
+          "summary": "Clear"
+        }
+      }
+    },
+    {
+      "id": "CwtQxuTdRu",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "garden",
+              "confidence": 0.9810338
+            },
+            {
+              "concept_name": "environment",
+              "confidence": 0.96791774
+            },
+            {
+              "concept_name": "waste",
+              "confidence": 0.96399313
+            },
+            {
+              "concept_name": "house",
+              "confidence": 0.96368873
+            },
+            {
+              "concept_name": "flora",
+              "confidence": 0.96283734
+            },
+            {
+              "concept_name": "agriculture",
+              "confidence": 0.96235573
+            },
+            {
+              "concept_name": "no person",
+              "confidence": 0.9614838
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-18T12:48:56.225Z",
+            "end_time": "2016-07-18T12:48:56.225Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": -21.221899,
+              "longitude": -44.998978
+            },
+            "revgeo_places": [
+              {
+
+                "country": "Brasil",
+                "latitude": -21.22186,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 3,
+              "dod": 2,
+
+              "intent_category_name": "Foco-Lugar",
+              "intent_emoji_id": "byFEnI6JSl",
+              "intent_emoji_unicode": "1F60B"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "username": "mynevidal@gmail.com",
+                "first_name": "JohnQ",
+                "last_name": "Public",
+                "email": "mynevidal@gmail.com"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/10688d03-b66e-486b-b5c8-2c6bf32154e0.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/10688d03-b66e-486b-b5c8-2c6bf32154e0.jpeg"
+          },
+
+          "media_type": "photo"
+        }
+      ],
+      "start_time": "2016-07-18T12:48:56.225Z",
+      "end_time": "2016-07-18T12:48:56.225Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-day",
+          "record_time": 1468846136,
+          "temperature": 16.6,
+          "max_temperature_day": 24.62,
+          "max_temperature_record_time": 1468861200,
+          "min_temperature_day": 6.54,
+          "min_temperature_record_time": 1468828800,
+          "humidity": 0.58,
+          "pressure": 1021.12,
+          "wind_speed": 1.77,
+          "wind_bearing": 101,
+          "summary": "Clear"
+        }
+      }
+    },
+    {
+      "id": "1iYcKDCMZL",
+      "media": [
+        {
+          "when": {
+            "start_time": "2016-07-18T12:48:00.299Z",
+            "end_time": "2016-07-18T12:48:00.299Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": -21.221807,
+              "longitude": -44.998825
+            },
+            "revgeo_places": [
+              {
+
+                "country": "Brasil",
+                "latitude": -21.22174,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 3,
+              "dod": 2,
+
+              "intent_category_name": "Foco-Lugar",
+              "intent_emoji_id": "byFEnI6JSl",
+              "intent_emoji_unicode": "1F60B"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "username": "mynevidal@gmail.com",
+                "first_name": "JohnQ",
+                "last_name": "Public",
+                "email": "mynevidal@gmail.com"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/4877e6fe-00f2-4c0c-830a-bf91ee319fee.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/4877e6fe-00f2-4c0c-830a-bf91ee319fee.jpeg"
+          },
+
+          "media_type": "photo"
+        }
+      ],
+      "start_time": "2016-07-18T12:48:00.299Z",
+      "end_time": "2016-07-18T12:48:00.299Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-day",
+          "record_time": 1468846080,
+          "temperature": 16.56,
+          "max_temperature_day": 24.62,
+          "max_temperature_record_time": 1468861200,
+          "min_temperature_day": 6.54,
+          "min_temperature_record_time": 1468828800,
+          "humidity": 0.58,
+          "pressure": 1021.13,
+          "wind_speed": 1.78,
+          "wind_bearing": 101,
+          "summary": "Clear"
+        }
+      }
+    },
+    {
+      "id": "QAmldUIYZv",
+      "media": [
+        {
+          "when": {
+            "start_time": "2016-07-18T12:46:51.894Z",
+            "end_time": "2016-07-18T12:46:51.894Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": -21.22151,
+              "longitude": -44.99885
+            },
+            "revgeo_places": [
+              {
+
+                "country": "Brasil",
+                "latitude": -21.22152,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 1,
+              "dod": 4,
+
+              "intent_category_name": "Foco-Lugar",
+              "intent_emoji_id": "2hQK78wWMt",
+              "intent_emoji_unicode": "1f637"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "username": "mynevidal@gmail.com",
+                "first_name": "JohnQ",
+                "last_name": "Public",
+                "email": "mynevidal@gmail.com"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/0d6d42d8-337e-4cc7-b061-8c3f34197ccf.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/0d6d42d8-337e-4cc7-b061-8c3f34197ccf.jpeg"
+          },
+
+          "media_type": "photo"
+        }
+      ],
+      "start_time": "2016-07-18T12:46:51.894Z",
+      "end_time": "2016-07-18T12:46:51.894Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-day",
+          "record_time": 1468846011,
+          "temperature": 16.51,
+          "max_temperature_day": 24.62,
+          "max_temperature_record_time": 1468861200,
+          "min_temperature_day": 6.54,
+          "min_temperature_record_time": 1468828800,
+          "humidity": 0.59,
+          "pressure": 1021.14,
+          "wind_speed": 1.78,
+          "wind_bearing": 101,
+          "summary": "Clear"
+        }
+      }
+    },
+    {
+      "id": "R3WdrYnzHy",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "calamity",
+              "confidence": 0.96138835
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-18T12:43:59.144Z",
+            "end_time": "2016-07-18T12:43:59.144Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": -21.220657,
+              "longitude": -44.99815
+            },
+            "revgeo_places": [
+              {
+
+                "country": "Brasil",
+                "latitude": -21.220726,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 3,
+              "dod": 2,
+
+              "intent_category_name": "Foco-Lugar",
+              "intent_emoji_id": "byFEnI6JSl",
+              "intent_emoji_unicode": "1F60B"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "username": "mynevidal@gmail.com",
+                "first_name": "JohnQ",
+                "last_name": "Public",
+                "email": "mynevidal@gmail.com"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/4c4ce50a-0565-4245-9e98-bb46abeb4917.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/4c4ce50a-0565-4245-9e98-bb46abeb4917.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-18T12:43:59.683Z",
+            "end_time": "2016-07-18T12:44:17.432Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": -21.220657,
+              "longitude": -44.99815
+            },
+            "revgeo_places": [
+              {
+
+                "country": "Brasil",
+                "latitude": -21.220726,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "username": "mynevidal@gmail.com",
+                "first_name": "JohnQ",
+                "last_name": "Public",
+                "email": "mynevidal@gmail.com"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 17749,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/aef59e97-9389-4166-ba7e-2dd3d13a7294.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-18T12:43:59.144Z",
+      "end_time": "2016-07-18T12:44:17.432Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-day",
+          "record_time": 1468845839,
+          "temperature": 16.38,
+          "max_temperature_day": 24.62,
+          "max_temperature_record_time": 1468861200,
+          "min_temperature_day": 6.53,
+          "min_temperature_record_time": 1468828800,
+          "humidity": 0.59,
+          "pressure": 1021.15,
+          "wind_speed": 1.79,
+          "wind_bearing": 102,
+          "summary": "Clear"
+        }
+      }
+    },
+    {
+      "id": "stqvawk5ZV",
+      "media": [
+        {
+          "when": {
+            "start_time": "2016-07-18T12:41:50.568Z",
+            "end_time": "2016-07-18T12:41:50.568Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": -21.219982,
+              "longitude": -44.998047
+            },
+            "revgeo_places": [
+              {
+
+                "country": "Brasil",
+                "latitude": -21.21999,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 3,
+              "dod": 2,
+
+              "intent_category_name": "Foco-Lugar",
+              "intent_emoji_id": "byFEnI6JSl",
+              "intent_emoji_unicode": "1F60B"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "username": "mynevidal@gmail.com",
+                "first_name": "JohnQ",
+                "last_name": "Public",
+                "email": "mynevidal@gmail.com"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/c69375b3-3e7b-483b-ab5f-fd60cf334d9e.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/c69375b3-3e7b-483b-ab5f-fd60cf334d9e.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-18T12:41:51.191Z",
+            "end_time": "2016-07-18T12:42:01.14Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": -21.219982,
+              "longitude": -44.998047
+            },
+            "revgeo_places": [
+              {
+
+                "country": "Brasil",
+                "latitude": -21.21999,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "username": "mynevidal@gmail.com",
+                "first_name": "JohnQ",
+                "last_name": "Public",
+                "email": "mynevidal@gmail.com"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 9949,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/fff86d33-3338-42bd-8c23-b7a9441036f3.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-18T12:41:50.568Z",
+      "end_time": "2016-07-18T12:42:01.14Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-day",
+          "record_time": 1468845710,
+          "temperature": 16.28,
+          "max_temperature_day": 24.63,
+          "max_temperature_record_time": 1468861200,
+          "min_temperature_day": 6.53,
+          "min_temperature_record_time": 1468828800,
+          "humidity": 0.59,
+          "pressure": 1021.16,
+          "wind_speed": 1.79,
+          "wind_bearing": 102,
+          "summary": "Clear"
+        }
+      }
+    },
+    {
+      "id": "tEFJ1UIzlj",
+      "media": [
+        {
+          "when": {
+            "start_time": "2016-07-18T12:38:20.493Z",
+            "end_time": "2016-07-18T12:38:20.493Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": -21.218746,
+              "longitude": -44.99832
+            },
+            "revgeo_places": [
+              {
+
+                "country": "Brasil",
+                "latitude": -21.218763,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 2,
+              "dod": 3,
+
+              "intent_category_name": "Foco-Lugar",
+              "intent_emoji_id": "P9YtkJG8NA",
+              "intent_emoji_unicode": "1f525"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "username": "mynevidal@gmail.com",
+                "first_name": "JohnQ",
+                "last_name": "Public",
+                "email": "mynevidal@gmail.com"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/ecfe63cb-db98-4c17-9a0f-243990b08d1c.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/ecfe63cb-db98-4c17-9a0f-243990b08d1c.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-18T12:37:50.52Z",
+            "end_time": "2016-07-18T12:38:23.962Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": -21.218746,
+              "longitude": -44.99832
+            },
+            "revgeo_places": [
+              {
+
+                "country": "Brasil",
+                "latitude": -21.218763,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "username": "mynevidal@gmail.com",
+                "first_name": "JohnQ",
+                "last_name": "Public",
+                "email": "mynevidal@gmail.com"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 33442,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/a6261990-2a78-4264-838a-6cb9eef2f913.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-18T12:38:20.493Z",
+      "end_time": "2016-07-18T12:38:23.962Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-day",
+          "record_time": 1468845500,
+          "temperature": 16.12,
+          "max_temperature_day": 24.63,
+          "max_temperature_record_time": 1468861200,
+          "min_temperature_day": 6.53,
+          "min_temperature_record_time": 1468828800,
+          "humidity": 0.6,
+          "pressure": 1021.18,
+          "wind_speed": 1.8,
+          "wind_bearing": 102,
+          "summary": "Clear"
+        }
+      }
+    },
+    {
+      "id": "hh5klefFqq",
+      "media": [
+        {
+          "when": {
+            "start_time": "2016-07-18T12:36:56.203Z",
+            "end_time": "2016-07-18T12:36:56.203Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": -21.21824,
+              "longitude": -44.998455
+            },
+            "revgeo_places": [
+              {
+
+                "country": "Brasil",
+                "latitude": -21.218311,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 1,
+              "dod": 4,
+
+              "intent_category_name": "Foco-Lugar",
+              "intent_emoji_id": "2hQK78wWMt",
+              "intent_emoji_unicode": "1f637"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "username": "mynevidal@gmail.com",
+                "first_name": "JohnQ",
+                "last_name": "Public",
+                "email": "mynevidal@gmail.com"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/33de3568-0679-4ec9-8562-1b1d17c35cea.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/33de3568-0679-4ec9-8562-1b1d17c35cea.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-18T12:36:56.78Z",
+            "end_time": "2016-07-18T12:37:12.409Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": -21.21824,
+              "longitude": -44.998455
+            },
+            "revgeo_places": [
+              {
+
+                "country": "Brasil",
+                "latitude": -21.218311,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "username": "mynevidal@gmail.com",
+                "first_name": "JohnQ",
+                "last_name": "Public",
+                "email": "mynevidal@gmail.com"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 15629,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/926f81e5-f64b-4f56-b65d-37e7adde58f3.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-18T12:36:56.203Z",
+      "end_time": "2016-07-18T12:37:12.409Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-day",
+          "record_time": 1468845416,
+          "temperature": 16.06,
+          "max_temperature_day": 24.63,
+          "max_temperature_record_time": 1468861200,
+          "min_temperature_day": 6.53,
+          "min_temperature_record_time": 1468828800,
+          "humidity": 0.6,
+          "pressure": 1021.19,
+          "wind_speed": 1.81,
+          "wind_bearing": 102,
+          "summary": "Clear"
+        }
+      }
+    },
+    {
+      "id": "KrqgyozuVc",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "indoors",
+              "confidence": 0.9877044
+            },
+            {
+              "concept_name": "adult",
+              "confidence": 0.9871789
+            },
+            {
+              "concept_name": "school",
+              "confidence": 0.98389435
+            },
+            {
+              "concept_name": "room",
+              "confidence": 0.9820869
+            },
+            {
+              "concept_name": "education",
+              "confidence": 0.9816572
+            },
+            {
+              "concept_name": "people",
+              "confidence": 0.97250783
+            },
+            {
+              "concept_name": "portrait",
+              "confidence": 0.9633211
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-14T21:34:21.664Z",
+            "end_time": "2016-07-14T21:34:21.664Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 3,
+              "dod": 1,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "4V7rnnfMPb",
+              "intent_emoji_unicode": "1f621"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/dc667b71-46cc-4253-935e-71440c3ed69e.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/dc667b71-46cc-4253-935e-71440c3ed69e.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-14T21:34:21.868Z",
+            "end_time": "2016-07-14T21:34:27.103Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 5235,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/42099ee0-df0f-4d0c-be34-7fc32f48a8f6.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-14T21:34:21.664Z",
+      "end_time": "2016-07-14T21:34:27.103Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-night",
+          "record_time": 1468532061,
+          "temperature": 24.89,
+          "max_temperature_day": 25,
+          "max_temperature_record_time": 1468497600,
+          "min_temperature_day": 24.44,
+          "min_temperature_record_time": 1468465200,
+          "humidity": 0.82,
+          "pressure": 1013.91,
+          "wind_speed": 6.43,
+          "wind_bearing": 178,
+          "cloud_cover": 0.19,
+          "precip_probability": 0.03,
+          "precip_type": "rain",
+          "precip_intensity": 0.0356,
+          "summary": "Clear"
+        }
+      }
+    },
+    {
+      "id": "d1BKHMAElB",
+      "media": [
+        {
+          "when": {
+            "start_time": "2016-07-14T21:12:52.046Z",
+            "end_time": "2016-07-14T21:12:52.046Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 1,
+              "dod": 1,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "Tkma6fIfAX",
+              "intent_emoji_unicode": "1f6af"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/02d430cb-9255-47ea-bcfe-4d50315f9d1b.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/02d430cb-9255-47ea-bcfe-4d50315f9d1b.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-14T21:12:52.429Z",
+            "end_time": "2016-07-14T21:12:56.135Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 3706,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/bbab2bc5-f41d-4259-9f4f-daceb824387f.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-14T21:12:52.046Z",
+      "end_time": "2016-07-14T21:12:56.135Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-night",
+          "record_time": 1468530772,
+          "temperature": 24.89,
+          "max_temperature_day": 25,
+          "max_temperature_record_time": 1468497600,
+          "min_temperature_day": 24.44,
+          "min_temperature_record_time": 1468465200,
+          "humidity": 0.82,
+          "pressure": 1013.89,
+          "wind_speed": 6.46,
+          "wind_bearing": 178,
+          "cloud_cover": 0.22,
+          "precip_probability": 0.03,
+          "precip_type": "rain",
+          "precip_intensity": 0.0356,
+          "summary": "Clear"
+        }
+      }
+    },
+    {
+      "id": "mdB7MWHbf3",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "no person",
+              "confidence": 0.9789249
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-09T20:44:53.761Z",
+            "end_time": "2016-07-09T20:44:53.761Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.641792,
+              "longitude": -117.841354
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.641804,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 3,
+              "dod": 1,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "4V7rnnfMPb",
+              "intent_emoji_unicode": "1f621"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "username": "tamesmin@gmail.com",
+                "first_name": "JohnQ",
+                "last_name": "Public",
+                "email": "tamesmin@gmail.com"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/e1d9d846-9adc-4059-b8c8-3b225ad9df13.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/e1d9d846-9adc-4059-b8c8-3b225ad9df13.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-09T20:44:54.693Z",
+            "end_time": "2016-07-09T20:44:59.551Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.641792,
+              "longitude": -117.841354
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.641804,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "username": "tamesmin@gmail.com",
+                "first_name": "JohnQ",
+                "last_name": "Public",
+                "email": "tamesmin@gmail.com"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 4858,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/e2421b33-1d15-4eef-8af7-e01ccb458693.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-09T20:44:53.761Z",
+      "end_time": "2016-07-09T20:44:59.551Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-day",
+          "record_time": 1468097093,
+          "temperature": 25.54,
+          "max_temperature_day": 25.72,
+          "max_temperature_record_time": 1468101600,
+          "min_temperature_day": 17.47,
+          "min_temperature_record_time": 1468069200,
+          "humidity": 0.63,
+          "pressure": 1015.01,
+          "wind_speed": 2.89,
+          "wind_bearing": 233,
+          "cloud_cover": 0.1,
+          "summary": "Clear"
+        }
+      }
+    },
+    {
+      "id": "17aBV3wHSl",
+      "media": [
+        {
+          "when": {
+            "start_time": "2016-07-09T04:37:23.912Z",
+            "end_time": "2016-07-09T04:37:23.912Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.641773,
+              "longitude": -117.84145
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.64168,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 2,
+              "dod": 3,
+
+              "intent_category_name": "Foco-Lugar",
+              "intent_emoji_id": "P9YtkJG8NA",
+              "intent_emoji_unicode": "1f525"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/8fb8c04b-46d0-4e80-9b28-7c1c4f8d3a0e.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/8fb8c04b-46d0-4e80-9b28-7c1c4f8d3a0e.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-09T04:37:24.491Z",
+            "end_time": "2016-07-09T04:37:38.16Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.641773,
+              "longitude": -117.84145
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.64168,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 13669,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/9170d96b-ba75-408c-9cc7-edbb98917747.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-09T04:37:23.912Z",
+      "end_time": "2016-07-09T04:37:38.16Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-night",
+          "record_time": 1468039043,
+          "temperature": 19.44,
+          "max_temperature_day": 25.16,
+          "max_temperature_record_time": 1468015200,
+          "min_temperature_day": 17.86,
+          "min_temperature_record_time": 1467961200,
+          "humidity": 0.82,
+          "pressure": 1014.26,
+          "wind_speed": 0.96,
+          "wind_bearing": 265,
+          "cloud_cover": 0.05,
+          "summary": "Clear"
+        }
+      }
+    },
+    {
+      "id": "xCpscfjN7s",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "no person",
+              "confidence": 0.97088075
+            },
+            {
+              "concept_name": "internet",
+              "confidence": 0.96666306
+            },
+            {
+              "concept_name": "technology",
+              "confidence": 0.9630329
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-09T02:14:00.923Z",
+            "end_time": "2016-07-09T02:14:00.923Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 3,
+              "dod": 1,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "4V7rnnfMPb",
+              "intent_emoji_unicode": "1f621"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "username": "animeshsahay96@gmail.com",
+                "first_name": "JohnQ",
+                "last_name": "Public",
+                "email": "animeshsahay96@gmail.com"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/60ee2570-feda-4332-93b8-61d1548d070b.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/60ee2570-feda-4332-93b8-61d1548d070b.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-09T02:14:01.949Z",
+            "end_time": "2016-07-09T02:14:03.859Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "who": {
+            "creator": [
+              {
+                "username": "animeshsahay96@gmail.com",
+                "first_name": "JohnQ",
+                "last_name": "Public",
+                "email": "animeshsahay96@gmail.com"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 1910,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/bb83ee04-1f82-4da1-926e-31f133b9c62d.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-09T02:14:00.923Z",
+      "end_time": "2016-07-09T02:14:03.859Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-night",
+          "record_time": 1468030440,
+          "temperature": 24.93,
+          "max_temperature_day": 25.96,
+          "max_temperature_record_time": 1468047600,
+          "min_temperature_day": 24.93,
+          "min_temperature_record_time": 1468029600,
+          "humidity": 0.8,
+          "pressure": 1015.23,
+          "wind_speed": 5.38,
+          "wind_bearing": 178,
+          "cloud_cover": 0.74,
+          "precip_probability": 0.01,
+          "precip_type": "rain",
+          "precip_intensity": 0.0203,
+          "summary": "Mostly Cloudy"
+        }
+      }
+    },
+    {
+      "id": "vL5SY9XYCy",
+      "media": [
+        {
+          "when": {
+            "start_time": "2016-07-09T02:10:40.746Z",
+            "end_time": "2016-07-09T02:10:40.746Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64331,
+              "longitude": -117.84197
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 3,
+              "dod": 2,
+
+              "intent_category_name": "Foco-Lugar",
+              "intent_emoji_id": "byFEnI6JSl",
+              "intent_emoji_unicode": "1F60B"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/cb73bf76-7ae5-4446-b7c9-f6bf27903dc2.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/cb73bf76-7ae5-4446-b7c9-f6bf27903dc2.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-09T02:10:41.804Z",
+            "end_time": "2016-07-09T02:10:56.496Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64331,
+              "longitude": -117.84197
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 14692,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/cfe9e61c-5c6f-47dd-bcef-f37c49bc15a2.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-09T02:10:40.746Z",
+      "end_time": "2016-07-09T02:10:56.496Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-day",
+          "record_time": 1468030240,
+          "temperature": 22.11,
+          "max_temperature_day": 25.12,
+          "max_temperature_record_time": 1468015200,
+          "min_temperature_day": 17.87,
+          "min_temperature_record_time": 1467961200,
+          "humidity": 0.71,
+          "pressure": 1013.06,
+          "wind_speed": 2.82,
+          "wind_bearing": 258,
+          "cloud_cover": 0.06,
+          "summary": "Clear"
+        }
+      }
+    },
+    {
+      "id": "M1d3SQDyPp",
+      "media": [
+        {
+          "when": {
+            "start_time": "2016-07-09T01:34:58.413Z",
+            "end_time": "2016-07-09T01:34:58.413Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64333,
+              "longitude": -117.841995
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 4,
+              "dod": 1,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "Bje5TEysmt",
+              "intent_emoji_unicode": "1F370"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "username": "aesmin@gmail.com",
+                "first_name": "JohnQ",
+                "last_name": "Public",
+                "email": "aesmin@gmail.com"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/f934a245-5097-48d9-89f5-22caf5fd0f71.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/f934a245-5097-48d9-89f5-22caf5fd0f71.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-09T01:34:59.231Z",
+            "end_time": "2016-07-09T01:35:01.718Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64333,
+              "longitude": -117.841995
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "username": "aesmin@gmail.com",
+                "first_name": "JohnQ",
+                "last_name": "Public",
+                "email": "aesmin@gmail.com"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 2487,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/9f537dd2-81a6-4087-801c-9834e7714fad.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-09T01:34:58.413Z",
+      "end_time": "2016-07-09T01:35:01.718Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-day",
+          "record_time": 1468028098,
+          "temperature": 22.19,
+          "max_temperature_day": 25.09,
+          "max_temperature_record_time": 1468015200,
+          "min_temperature_day": 17.87,
+          "min_temperature_record_time": 1467961200,
+          "humidity": 0.7,
+          "pressure": 1012.95,
+          "wind_speed": 2.19,
+          "wind_bearing": 249,
+          "cloud_cover": 0.06,
+          "summary": "Clear"
+        }
+      }
+    },
+    {
+      "id": "5e6klqUvfi",
+      "media": [
+        {
+          "when": {
+            "start_time": "2016-07-09T01:14:20.105Z",
+            "end_time": "2016-07-09T01:14:20.105Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.643387,
+              "longitude": -117.84209
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 5,
+              "dod": 6,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "MI8A1twFvS",
+              "intent_emoji_unicode": "a"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/5ae4c897-c3b6-4c6b-af2e-aeb4b5eb296f.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/5ae4c897-c3b6-4c6b-af2e-aeb4b5eb296f.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-09T01:14:20.803Z",
+            "end_time": "2016-07-09T01:14:22.311Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.643387,
+              "longitude": -117.84209
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 1508,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/ec8d5105-0c12-47df-9e6c-55b54d762f42.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-09T01:14:20.105Z",
+      "end_time": "2016-07-09T01:14:22.311Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-day",
+          "record_time": 1468026860,
+          "temperature": 22.72,
+          "max_temperature_day": 25.09,
+          "max_temperature_record_time": 1468015200,
+          "min_temperature_day": 17.87,
+          "min_temperature_record_time": 1467961200,
+          "humidity": 0.69,
+          "pressure": 1012.9,
+          "wind_speed": 2.45,
+          "wind_bearing": 250,
+          "cloud_cover": 0.07,
+          "summary": "Clear"
+        }
+      }
+    },
+    {
+      "id": "VrCZ9DCusi",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "laptop",
+              "confidence": 0.97074515
+            },
+            {
+              "concept_name": "table",
+              "confidence": 0.9694117
+            },
+            {
+              "concept_name": "no person",
+              "confidence": 0.9693815
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-09T01:12:06.445Z",
+            "end_time": "2016-07-09T01:12:06.445Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.643387,
+              "longitude": -117.84209
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 3,
+              "dod": 1,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "4V7rnnfMPb",
+              "intent_emoji_unicode": "1f621"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/a4b67fa6-5ca9-4362-8455-2bf316bcfdcf.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/a4b67fa6-5ca9-4362-8455-2bf316bcfdcf.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-09T01:12:06.719Z",
+            "end_time": "2016-07-09T01:12:11.206Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.643387,
+              "longitude": -117.84209
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 4487,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/2ce34291-124c-4e6c-b34f-638008d2546a.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-09T01:12:06.445Z",
+      "end_time": "2016-07-09T01:12:11.206Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-day",
+          "record_time": 1468026726,
+          "temperature": 23.04,
+          "max_temperature_day": 25.09,
+          "max_temperature_record_time": 1468015200,
+          "min_temperature_day": 17.87,
+          "min_temperature_record_time": 1467961200,
+          "humidity": 0.69,
+          "pressure": 1012.9,
+          "wind_speed": 3.03,
+          "wind_bearing": 253,
+          "cloud_cover": 0.06,
+          "summary": "Clear"
+        }
+      }
+    },
+    {
+      "id": "EL25DYSWq2",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "business",
+              "confidence": 0.9862012
+            },
+            {
+              "concept_name": "no person",
+              "confidence": 0.9744288
+            },
+            {
+              "concept_name": "data",
+              "confidence": 0.96340936
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-08T22:31:06.235Z",
+            "end_time": "2016-07-08T22:31:06.235Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 3,
+              "dod": 7,
+
+              "intent_category_name": "Outros",
+              "intent_emoji_id": "0zHYyx4kAO",
+              "intent_emoji_unicode": "1f691"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/37e06045-e2ec-4e29-b681-296e6b790ba4.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/37e06045-e2ec-4e29-b681-296e6b790ba4.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-08T22:31:06.408Z",
+            "end_time": "2016-07-08T22:31:09.233Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 2825,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/4a5a26c0-b119-45f5-bbc4-d0c0c4986e10.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-08T22:31:06.235Z",
+      "end_time": "2016-07-08T22:31:09.233Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-night",
+          "record_time": 1468017066,
+          "temperature": 25.31,
+          "max_temperature_day": 25.48,
+          "max_temperature_record_time": 1467961200,
+          "min_temperature_day": 25,
+          "min_temperature_record_time": 1467946800,
+          "humidity": 0.8,
+          "pressure": 1015.86,
+          "wind_speed": 5.25,
+          "wind_bearing": 172,
+          "cloud_cover": 0.52,
+          "precip_probability": 0.01,
+          "precip_type": "rain",
+          "precip_intensity": 0.0254,
+          "summary": "Partly Cloudy"
+        }
+      }
+    },
+    {
+      "id": "LKo9Stz50c",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "no person",
+              "confidence": 0.98150206
+            },
+            {
+              "concept_name": "office",
+              "confidence": 0.97501254
+            },
+            {
+              "concept_name": "pencil",
+              "confidence": 0.97025084
+            },
+            {
+              "concept_name": "composition",
+              "confidence": 0.96950567
+            },
+            {
+              "concept_name": "business",
+              "confidence": 0.96699595
+            },
+            {
+              "concept_name": "paper",
+              "confidence": 0.96141064
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-08T22:30:31.111Z",
+            "end_time": "2016-07-08T22:30:31.111Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 5,
+              "dod": 6,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "MI8A1twFvS",
+              "intent_emoji_unicode": "a"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/896d4b26-4bde-417f-a19c-e1da466194f6.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/896d4b26-4bde-417f-a19c-e1da466194f6.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-08T22:30:31.304Z",
+            "end_time": "2016-07-08T22:30:34.152Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 2848,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/caa75a30-4f6f-437b-bc6d-7f7c38071e8b.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-08T22:30:31.111Z",
+      "end_time": "2016-07-08T22:30:34.152Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-night",
+          "record_time": 1468017031,
+          "temperature": 25.31,
+          "max_temperature_day": 25.48,
+          "max_temperature_record_time": 1467961200,
+          "min_temperature_day": 25,
+          "min_temperature_record_time": 1467946800,
+          "humidity": 0.8,
+          "pressure": 1015.86,
+          "wind_speed": 5.25,
+          "wind_bearing": 172,
+          "cloud_cover": 0.45,
+          "precip_probability": 0.01,
+          "precip_type": "rain",
+          "precip_intensity": 0.0254,
+          "summary": "Partly Cloudy"
+        }
+      }
+    },
+    {
+      "id": "wGPqNNaL2u",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "no person",
+              "confidence": 0.98250246
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-08T22:29:45.565Z",
+            "end_time": "2016-07-08T22:29:45.565Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 5,
+              "dod": 8,
+
+              "intent_category_name": "Outros",
+              "intent_emoji_id": "ir2305PN0C",
+              "intent_emoji_unicode": "2615"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/f9ffd110-c967-425d-ab61-c7f0f83806bf.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/f9ffd110-c967-425d-ab61-c7f0f83806bf.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-08T22:29:45.735Z",
+            "end_time": "2016-07-08T22:29:47.235Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 1500,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/b50040c5-f12c-436f-b87e-0da91346ab9a.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-08T22:29:45.565Z",
+      "end_time": "2016-07-08T22:29:47.235Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-night",
+          "record_time": 1468016985,
+          "temperature": 25.31,
+          "max_temperature_day": 25.48,
+          "max_temperature_record_time": 1467961200,
+          "min_temperature_day": 25,
+          "min_temperature_record_time": 1467946800,
+          "humidity": 0.8,
+          "pressure": 1015.86,
+          "wind_speed": 5.26,
+          "wind_bearing": 172,
+          "cloud_cover": 0.51,
+          "precip_probability": 0.01,
+          "precip_type": "rain",
+          "precip_intensity": 0.0254,
+          "summary": "Partly Cloudy"
+        }
+      }
+    },
+    {
+      "id": "rMpScLvyc4",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "technology",
+              "confidence": 0.98651993
+            },
+            {
+              "concept_name": "connection",
+              "confidence": 0.98564076
+            },
+            {
+              "concept_name": "computer",
+              "confidence": 0.9828566
+            },
+            {
+              "concept_name": "electronics",
+              "confidence": 0.9755639
+            },
+            {
+              "concept_name": "no person",
+              "confidence": 0.9659638
+            },
+            {
+              "concept_name": "wire",
+              "confidence": 0.96548724
+            },
+            {
+              "concept_name": "equipment",
+              "confidence": 0.9653864
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-08T22:29:25.434Z",
+            "end_time": "2016-07-08T22:29:25.434Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 5,
+              "dod": 6,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "MI8A1twFvS",
+              "intent_emoji_unicode": "a"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/a475e826-0d35-44b1-9176-5ecc1b838d45.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/a475e826-0d35-44b1-9176-5ecc1b838d45.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-08T22:29:25.669Z",
+            "end_time": "2016-07-08T22:29:27.628Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 1959,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/01b11436-fd6c-42e3-9e0f-b15d4e14ab78.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-08T22:29:25.434Z",
+      "end_time": "2016-07-08T22:29:27.628Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-night",
+          "record_time": 1468016965,
+          "temperature": 25.31,
+          "max_temperature_day": 25.48,
+          "max_temperature_record_time": 1467961200,
+          "min_temperature_day": 25,
+          "min_temperature_record_time": 1467946800,
+          "humidity": 0.8,
+          "pressure": 1015.86,
+          "wind_speed": 5.26,
+          "wind_bearing": 172,
+          "cloud_cover": 0.51,
+          "precip_probability": 0.01,
+          "precip_type": "rain",
+          "precip_intensity": 0.0254,
+          "summary": "Partly Cloudy"
+        }
+      }
+    },
+    {
+      "id": "ZKYYhWNQQT",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "technology",
+              "confidence": 0.9918543
+            },
+            {
+              "concept_name": "electronics",
+              "confidence": 0.98829305
+            },
+            {
+              "concept_name": "connection",
+              "confidence": 0.9881755
+            },
+            {
+              "concept_name": "computer",
+              "confidence": 0.9836545
+            },
+            {
+              "concept_name": "equipment",
+              "confidence": 0.97361565
+            },
+            {
+              "concept_name": "wire",
+              "confidence": 0.96436155
+            },
+            {
+              "concept_name": "no person",
+              "confidence": 0.9615965
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-08T22:28:47.447Z",
+            "end_time": "2016-07-08T22:28:47.447Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 2,
+              "dod": 7,
+
+              "intent_category_name": "Outros",
+              "intent_emoji_id": "Ie0Zwjf93u",
+              "intent_emoji_unicode": "1f912"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/ee3308d1-f47d-49a6-9584-676d0ac075d2.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/ee3308d1-f47d-49a6-9584-676d0ac075d2.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-08T22:28:47.644Z",
+            "end_time": "2016-07-08T22:28:49.411Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 1767,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/c69e3482-2588-42b9-ac2f-cc5605513bc4.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-08T22:28:47.447Z",
+      "end_time": "2016-07-08T22:28:49.411Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-night",
+          "record_time": 1468016927,
+          "temperature": 25.31,
+          "max_temperature_day": 25.48,
+          "max_temperature_record_time": 1467961200,
+          "min_temperature_day": 25,
+          "min_temperature_record_time": 1467946800,
+          "humidity": 0.8,
+          "pressure": 1015.85,
+          "wind_speed": 5.26,
+          "wind_bearing": 172,
+          "cloud_cover": 0.5,
+          "precip_probability": 0.01,
+          "precip_type": "rain",
+          "precip_intensity": 0.0254,
+          "summary": "Partly Cloudy"
+        }
+      }
+    },
+    {
+      "id": "Uh4XZpymCd",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "technology",
+              "confidence": 0.9862997
+            },
+            {
+              "concept_name": "electronics",
+              "confidence": 0.9757848
+            },
+            {
+              "concept_name": "mouse",
+              "confidence": 0.9723281
+            },
+            {
+              "concept_name": "no person",
+              "confidence": 0.96879625
+            },
+            {
+              "concept_name": "device",
+              "confidence": 0.9681792
+            },
+            {
+              "concept_name": "computer",
+              "confidence": 0.9674755
+            },
+            {
+              "concept_name": "equipment",
+              "confidence": 0.96707493
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-08T22:28:15.98Z",
+            "end_time": "2016-07-08T22:28:15.98Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 5,
+              "dod": 6,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "MI8A1twFvS",
+              "intent_emoji_unicode": "a"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/41b02e9a-b27c-4108-b281-e8f9b5d6cdb1.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/41b02e9a-b27c-4108-b281-e8f9b5d6cdb1.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-08T22:28:16.209Z",
+            "end_time": "2016-07-08T22:28:18.589Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 2380,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/847ab9af-0f3c-4880-8531-7f9c530d591f.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-08T22:28:15.98Z",
+      "end_time": "2016-07-08T22:28:18.589Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-night",
+          "record_time": 1468016895,
+          "temperature": 25.31,
+          "max_temperature_day": 25.48,
+          "max_temperature_record_time": 1467961200,
+          "min_temperature_day": 25,
+          "min_temperature_record_time": 1467946800,
+          "humidity": 0.8,
+          "pressure": 1015.85,
+          "wind_speed": 5.27,
+          "wind_bearing": 172,
+          "cloud_cover": 0.5,
+          "precip_probability": 0.01,
+          "precip_type": "rain",
+          "precip_intensity": 0.0254,
+          "summary": "Partly Cloudy"
+        }
+      }
+    },
+    {
+      "id": "Eu2pEBUv7K",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "technology",
+              "confidence": 0.9898108
+            },
+            {
+              "concept_name": "electronics",
+              "confidence": 0.97970796
+            },
+            {
+              "concept_name": "computer",
+              "confidence": 0.97744954
+            },
+            {
+              "concept_name": "connection",
+              "confidence": 0.97615486
+            },
+            {
+              "concept_name": "device",
+              "confidence": 0.9730171
+            },
+            {
+              "concept_name": "equipment",
+              "confidence": 0.96856356
+            },
+            {
+              "concept_name": "mouse",
+              "confidence": 0.9680444
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-08T22:28:10.535Z",
+            "end_time": "2016-07-08T22:28:10.535Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 5,
+              "dod": 6,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "MI8A1twFvS",
+              "intent_emoji_unicode": "a"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/43ffc417-a803-4cdb-97ae-702c01c615e3.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/43ffc417-a803-4cdb-97ae-702c01c615e3.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-08T22:28:10.746Z",
+            "end_time": "2016-07-08T22:28:11.911Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 1165,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/9f49deab-9ebc-4aa6-b5ef-b2dce3abbcaf.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-08T22:28:10.535Z",
+      "end_time": "2016-07-08T22:28:11.911Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-night",
+          "record_time": 1468016890,
+          "temperature": 25.31,
+          "max_temperature_day": 25.48,
+          "max_temperature_record_time": 1467961200,
+          "min_temperature_day": 25,
+          "min_temperature_record_time": 1467946800,
+          "humidity": 0.8,
+          "pressure": 1015.85,
+          "wind_speed": 5.27,
+          "wind_bearing": 172,
+          "cloud_cover": 0.5,
+          "precip_probability": 0.01,
+          "precip_type": "rain",
+          "precip_intensity": 0.0254,
+          "summary": "Partly Cloudy"
+        }
+      }
+    },
+    {
+      "id": "jk24rn7EAK",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "technology",
+              "confidence": 0.9942014
+            },
+            {
+              "concept_name": "electronics",
+              "confidence": 0.99168766
+            },
+            {
+              "concept_name": "computer",
+              "confidence": 0.9857532
+            },
+            {
+              "concept_name": "connection",
+              "confidence": 0.9798357
+            },
+            {
+              "concept_name": "device",
+              "confidence": 0.97304106
+            },
+            {
+              "concept_name": "equipment",
+              "confidence": 0.9681727
+            },
+            {
+              "concept_name": "business",
+              "confidence": 0.9631553
+            },
+            {
+              "concept_name": "no person",
+              "confidence": 0.96122766
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-08T22:28:00.22Z",
+            "end_time": "2016-07-08T22:28:00.22Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 1,
+              "dod": 1,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "Tkma6fIfAX",
+              "intent_emoji_unicode": "1f6af"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/874a0294-24ff-4778-91a4-15003bc0ffb4.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/874a0294-24ff-4778-91a4-15003bc0ffb4.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-08T22:28:00.5Z",
+            "end_time": "2016-07-08T22:28:04.665Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 4165,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/1e45b5fd-60b0-43d5-b3f7-cdf7390077e7.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-08T22:28:00.22Z",
+      "end_time": "2016-07-08T22:28:04.665Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-night",
+          "record_time": 1468016880,
+          "temperature": 25.31,
+          "max_temperature_day": 25.48,
+          "max_temperature_record_time": 1467961200,
+          "min_temperature_day": 25,
+          "min_temperature_record_time": 1467946800,
+          "humidity": 0.8,
+          "pressure": 1015.85,
+          "wind_speed": 5.27,
+          "wind_bearing": 172,
+          "cloud_cover": 0.5,
+          "precip_probability": 0.01,
+          "precip_type": "rain",
+          "precip_intensity": 0.0254,
+          "summary": "Partly Cloudy"
+        }
+      }
+    },
+    {
+      "id": "KoCVs7VNTl",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "blur",
+              "confidence": 0.98715276
+            },
+            {
+              "concept_name": "abstract",
+              "confidence": 0.9783892
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-08T22:07:38.857Z",
+            "end_time": "2016-07-08T22:07:38.857Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 3,
+              "dod": 1,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "p1ipxQApUr",
+              "intent_emoji_unicode": "1f621"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/1507ffa6-924c-4c26-bdf8-91547e7ca38f.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/1507ffa6-924c-4c26-bdf8-91547e7ca38f.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-08T22:07:39.095Z",
+            "end_time": "2016-07-08T22:07:40.308Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 1213,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/c6e0fa4b-3e40-4498-a8e2-d5325ca817eb.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-08T22:07:38.857Z",
+      "end_time": "2016-07-08T22:07:40.308Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-night",
+          "record_time": 1468015658,
+          "temperature": 25.32,
+          "max_temperature_day": 25.48,
+          "max_temperature_record_time": 1467961200,
+          "min_temperature_day": 25,
+          "min_temperature_record_time": 1467946800,
+          "humidity": 0.8,
+          "pressure": 1015.82,
+          "wind_speed": 5.37,
+          "wind_bearing": 172,
+          "cloud_cover": 0.33,
+          "precip_probability": 0.01,
+          "precip_type": "rain",
+          "precip_intensity": 0.0254,
+          "summary": "Partly Cloudy"
+        }
+      }
+    },
+    {
+      "id": "7g7PDrVqio",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "computer",
+              "confidence": 0.99101967
+            },
+            {
+              "concept_name": "internet",
+              "confidence": 0.987149
+            },
+            {
+              "concept_name": "technology",
+              "confidence": 0.9830084
+            },
+            {
+              "concept_name": "laptop",
+              "confidence": 0.9745008
+            },
+            {
+              "concept_name": "no person",
+              "confidence": 0.9738226
+            },
+            {
+              "concept_name": "electronics",
+              "confidence": 0.9694479
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-08T22:06:05.915Z",
+            "end_time": "2016-07-08T22:06:05.915Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 5,
+              "dod": 6,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "StFa2sfiSz",
+              "intent_emoji_unicode": "a"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/127434ba-d4db-4e6d-aa49-633ceb49fe72.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/127434ba-d4db-4e6d-aa49-633ceb49fe72.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-08T22:06:06.139Z",
+            "end_time": "2016-07-08T22:06:08.344Z"
+          },
+          "where": {
+            "geo_location": {
+
+            }
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 2205,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/8e49a9f0-635e-4c36-9cda-4f36a2027b5d.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-08T22:06:05.915Z",
+      "end_time": "2016-07-08T22:06:08.344Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-night",
+          "record_time": 1468015565,
+          "temperature": 25.32,
+          "max_temperature_day": 25.48,
+          "max_temperature_record_time": 1467961200,
+          "min_temperature_day": 25,
+          "min_temperature_record_time": 1467946800,
+          "humidity": 0.8,
+          "pressure": 1015.82,
+          "wind_speed": 5.38,
+          "wind_bearing": 172,
+          "cloud_cover": 0.32,
+          "precip_probability": 0.01,
+          "precip_type": "rain",
+          "precip_intensity": 0.0254,
+          "summary": "Partly Cloudy"
+        }
+      }
+    },
+    {
+      "id": "ebgoy4wL3p",
+      "media": [
+        {
+          "when": {
+            "start_time": "2016-07-08T18:37:39.737Z",
+            "end_time": "2016-07-08T18:37:39.737Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64333,
+              "longitude": -117.841995
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 5,
+              "dod": 6,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "crQbJKER0t",
+              "intent_emoji_unicode": "a"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/73d5ceb3-2c8d-4e93-b139-458c7a6fb757.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/73d5ceb3-2c8d-4e93-b139-458c7a6fb757.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-08T18:37:41.192Z",
+            "end_time": "2016-07-08T18:37:45.76Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64333,
+              "longitude": -117.841995
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 4568,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/88de8739-38b2-40b4-8160-0ca060a1c5fc.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-08T18:37:39.737Z",
+      "end_time": "2016-07-08T18:37:45.76Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-day",
+          "record_time": 1468003059,
+          "temperature": 23.72,
+          "max_temperature_day": 25.42,
+          "max_temperature_record_time": 1468018800,
+          "min_temperature_day": 17.89,
+          "min_temperature_record_time": 1467961200,
+          "humidity": 0.67,
+          "pressure": 1014.69,
+          "wind_speed": 2.4,
+          "wind_bearing": 225,
+          "cloud_cover": 0.52,
+          "summary": "Partly Cloudy"
+        }
+      }
+    },
+    {
+      "id": "EjgCXrOvBp",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "abstract",
+              "confidence": 0.98940927
+            },
+            {
+              "concept_name": "square",
+              "confidence": 0.9768405
+            },
+            {
+              "concept_name": "texture",
+              "confidence": 0.96268153
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-08T18:32:27.101Z",
+            "end_time": "2016-07-08T18:32:27.101Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64336,
+              "longitude": -117.84204
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 3,
+              "dod": 2,
+
+              "intent_category_name": "Foco-Lugar",
+              "intent_emoji_id": "yeA3pYeisQ",
+              "intent_emoji_unicode": "1F60B"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/4d4653bb-8057-4e26-b019-1bd9d612d149.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/4d4653bb-8057-4e26-b019-1bd9d612d149.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-08T18:32:27.695Z",
+            "end_time": "2016-07-08T18:32:32.154Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64336,
+              "longitude": -117.84204
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 4459,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/8284ccd8-fe94-4f2c-b9a5-51bc4d5b7a33.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-08T18:32:27.101Z",
+      "end_time": "2016-07-08T18:32:32.154Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-day",
+          "record_time": 1468002747,
+          "temperature": 23.63,
+          "max_temperature_day": 25.42,
+          "max_temperature_record_time": 1468018800,
+          "min_temperature_day": 17.89,
+          "min_temperature_record_time": 1467961200,
+          "humidity": 0.67,
+          "pressure": 1014.72,
+          "wind_speed": 2.31,
+          "wind_bearing": 226,
+          "cloud_cover": 0.51,
+          "summary": "Partly Cloudy"
+        }
+      }
+    },
+    {
+      "id": "THG7VLWRFI",
+      "media": [
+        {
+          "when": {
+            "start_time": "2016-07-08T18:32:10.681Z",
+            "end_time": "2016-07-08T18:32:10.681Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64336,
+              "longitude": -117.84204
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 5,
+              "dod": 6,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "crQbJKER0t",
+              "intent_emoji_unicode": "a"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/028fdac6-e317-4371-9961-2fe76c41e8ae.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/028fdac6-e317-4371-9961-2fe76c41e8ae.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-08T18:32:12.269Z",
+            "end_time": "2016-07-08T18:32:15.301Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64336,
+              "longitude": -117.84204
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 3032,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/2a8ab5a6-7b2d-4532-89dd-7b772743920f.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-08T18:32:10.681Z",
+      "end_time": "2016-07-08T18:32:15.301Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-day",
+          "record_time": 1468002730,
+          "temperature": 23.62,
+          "max_temperature_day": 25.42,
+          "max_temperature_record_time": 1468018800,
+          "min_temperature_day": 17.89,
+          "min_temperature_record_time": 1467961200,
+          "humidity": 0.67,
+          "pressure": 1014.72,
+          "wind_speed": 2.3,
+          "wind_bearing": 226,
+          "cloud_cover": 0.51,
+          "summary": "Partly Cloudy"
+        }
+      }
+    },
+    {
+      "id": "2TSHuCzH7M",
+      "media": [
+        {
+          "when": {
+            "start_time": "2016-07-08T18:04:49.278Z",
+            "end_time": "2016-07-08T18:04:49.278Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64336,
+              "longitude": -117.84204
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 3,
+              "dod": 1,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "8oUrLHpMLB",
+              "intent_emoji_unicode": "1f621"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/712523fb-4112-458e-9b22-524d71a7c519.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/712523fb-4112-458e-9b22-524d71a7c519.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-08T18:04:50.501Z",
+            "end_time": "2016-07-08T18:04:52.602Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64336,
+              "longitude": -117.84204
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 2101,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/abd603e3-243f-494c-a40c-d6ab43d4433b.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-08T18:04:49.278Z",
+      "end_time": "2016-07-08T18:04:52.602Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-day",
+          "record_time": 1468001089,
+          "temperature": 22.63,
+          "max_temperature_day": 25.41,
+          "max_temperature_record_time": 1468018800,
+          "min_temperature_day": 17.88,
+          "min_temperature_record_time": 1467961200,
+          "humidity": 0.69,
+          "pressure": 1014.91,
+          "wind_speed": 2.43,
+          "wind_bearing": 226,
+          "cloud_cover": 0.88,
+          "summary": "Mostly Cloudy"
+        }
+      }
+    },
+    {
+      "id": "MxykBQogjb",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "paper",
+              "confidence": 0.9646766
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-08T17:44:43.124Z",
+            "end_time": "2016-07-08T17:44:43.124Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64336,
+              "longitude": -117.84204
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 5,
+              "dod": 8,
+
+              "intent_category_name": "Outros",
+              "intent_emoji_id": "3OXeG8Hukf",
+              "intent_emoji_unicode": "2615"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/76818f94-99b5-4c8e-bf42-7ed97435553f.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/76818f94-99b5-4c8e-bf42-7ed97435553f.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-08T17:44:43.647Z",
+            "end_time": "2016-07-08T17:44:47.385Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64336,
+              "longitude": -117.84204
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 3738,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/be59f23f-b766-45fa-98c5-f72d0fbfce96.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-08T17:44:43.124Z",
+      "end_time": "2016-07-08T17:44:47.385Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-day",
+          "record_time": 1467999883,
+          "temperature": 22.41,
+          "max_temperature_day": 25.43,
+          "max_temperature_record_time": 1468018800,
+          "min_temperature_day": 17.88,
+          "min_temperature_record_time": 1467961200,
+          "humidity": 0.71,
+          "pressure": 1014.97,
+          "wind_speed": 2.04,
+          "wind_bearing": 228,
+          "cloud_cover": 0.92,
+          "summary": "Mostly Cloudy"
+        }
+      }
+    },
+    {
+      "id": "u3mvqDlDLE",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "abstract",
+              "confidence": 0.9704219
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-08T17:37:39.597Z",
+            "end_time": "2016-07-08T17:37:39.597Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64333,
+              "longitude": -117.841995
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 5,
+              "dod": 6,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "crQbJKER0t",
+              "intent_emoji_unicode": "a"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/83b337c8-ed90-43a5-b29e-873a17e17c42.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/83b337c8-ed90-43a5-b29e-873a17e17c42.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-08T17:37:40.726Z",
+            "end_time": "2016-07-08T17:37:44.747Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64333,
+              "longitude": -117.841995
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 4021,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/1fd2ef1d-d8f8-457e-944d-bd76394ae1d1.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-08T17:37:39.597Z",
+      "end_time": "2016-07-08T17:37:44.747Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-day",
+          "record_time": 1467999459,
+          "temperature": 22.34,
+          "max_temperature_day": 25.43,
+          "max_temperature_record_time": 1468018800,
+          "min_temperature_day": 17.88,
+          "min_temperature_record_time": 1467961200,
+          "humidity": 0.71,
+          "pressure": 1014.99,
+          "wind_speed": 1.93,
+          "wind_bearing": 228,
+          "cloud_cover": 0.93,
+          "summary": "Mostly Cloudy"
+        }
+      }
+    },
+    {
+      "id": "ERfuiuFRmv",
+      "media": [
+        {
+          "when": {
+            "start_time": "2016-07-08T17:37:26.054Z",
+            "end_time": "2016-07-08T17:37:26.054Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64333,
+              "longitude": -117.841995
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 5,
+              "dod": 8,
+
+              "intent_category_name": "Outros",
+              "intent_emoji_id": "3OXeG8Hukf",
+              "intent_emoji_unicode": "2615"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/2a3822d4-5717-48b7-8b73-44c327b141e1.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/2a3822d4-5717-48b7-8b73-44c327b141e1.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-08T17:37:27.66Z",
+            "end_time": "2016-07-08T17:37:33.872Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64333,
+              "longitude": -117.841995
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 6212,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/f7dffa11-ecef-4665-a510-234b42e40b59.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-08T17:37:26.054Z",
+      "end_time": "2016-07-08T17:37:33.872Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-day",
+          "record_time": 1467999446,
+          "temperature": 22.34,
+          "max_temperature_day": 25.43,
+          "max_temperature_record_time": 1468018800,
+          "min_temperature_day": 17.88,
+          "min_temperature_record_time": 1467961200,
+          "humidity": 0.71,
+          "pressure": 1014.99,
+          "wind_speed": 1.93,
+          "wind_bearing": 228,
+          "cloud_cover": 0.93,
+          "summary": "Mostly Cloudy"
+        }
+      }
+    },
+    {
+      "id": "JJ7YNLy9YX",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "abstract",
+              "confidence": 0.9951279
+            },
+            {
+              "concept_name": "texture",
+              "confidence": 0.98771536
+            },
+            {
+              "concept_name": "background",
+              "confidence": 0.9841381
+            },
+            {
+              "concept_name": "wallpaper",
+              "confidence": 0.97556096
+            },
+            {
+              "concept_name": "desktop",
+              "confidence": 0.97362196
+            },
+            {
+              "concept_name": "art",
+              "confidence": 0.96789336
+            },
+            {
+              "concept_name": "pattern",
+              "confidence": 0.96637666
+            },
+            {
+              "concept_name": "wall",
+              "confidence": 0.9652179
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-07T22:54:50.126Z",
+            "end_time": "2016-07-07T22:54:50.126Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64333,
+              "longitude": -117.841995
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 5,
+              "dod": 8,
+
+              "intent_category_name": "Outros",
+              "intent_emoji_id": "3OXeG8Hukf",
+              "intent_emoji_unicode": "2615"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/f1d6dc33-838c-4930-bdf9-ac40b16eaee0.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/f1d6dc33-838c-4930-bdf9-ac40b16eaee0.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-07T22:54:50.877Z",
+            "end_time": "2016-07-07T22:54:54.175Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64333,
+              "longitude": -117.841995
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 3298,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/9b77f108-cbd6-459a-900e-f5c2394d8773.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-07T22:54:50.126Z",
+      "end_time": "2016-07-07T22:54:54.175Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-day",
+          "record_time": 1467932090,
+          "temperature": 23.96,
+          "max_temperature_day": 24.49,
+          "max_temperature_record_time": 1467925200,
+          "min_temperature_day": 17.92,
+          "min_temperature_record_time": 1467889200,
+          "humidity": 0.63,
+          "pressure": 1012.69,
+          "wind_speed": 3.18,
+          "wind_bearing": 247,
+          "summary": "Clear"
+        }
+      }
+    },
+    {
+      "id": "LNGntV5THd",
+      "media": [
+        {
+          "what": [
+            {
+              "concept_name": "no person",
+              "confidence": 0.9959967
+            },
+            {
+              "concept_name": "wood",
+              "confidence": 0.9876137
+            },
+            {
+              "concept_name": "furniture",
+              "confidence": 0.98206675
+            }
+          ],
+          "when": {
+            "start_time": "2016-07-06T18:02:54.516Z",
+            "end_time": "2016-07-06T18:02:54.516Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64333,
+              "longitude": -117.841995
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 4,
+              "dod": 5,
+
+              "intent_category_name": "Foco-Lugar",
+              "intent_emoji_id": "El0IrlfM0I",
+              "intent_emoji_unicode": "1f3da"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/c70b3b8c-d5ba-4e95-86e2-dd70f44142cf.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/c70b3b8c-d5ba-4e95-86e2-dd70f44142cf.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-06T18:02:59.194Z",
+            "end_time": "2016-07-06T18:03:02.671Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64333,
+              "longitude": -117.841995
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 3477,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/3ef12756-75bd-40b4-9ea9-e30e209d76ab.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-06T18:02:54.516Z",
+      "end_time": "2016-07-06T18:03:02.671Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-day",
+          "record_time": 1467828174,
+          "temperature": 22,
+          "max_temperature_day": 23.87,
+          "max_temperature_record_time": 1467842400,
+          "min_temperature_day": 17.56,
+          "min_temperature_record_time": 1467792000,
+          "humidity": 0.66,
+          "pressure": 1014.65,
+          "wind_speed": 1.64,
+          "wind_bearing": 234,
+          "cloud_cover": 0.48,
+          "summary": "Partly Cloudy"
+        }
+      }
+    },
+    {
+      "id": "8vzS7RJRM8",
+      "media": [
+        {
+          "when": {
+            "start_time": "2016-07-06T17:51:06.149Z",
+            "end_time": "2016-07-06T17:51:06.149Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64336,
+              "longitude": -117.84204
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 3,
+              "dod": 1,
+
+              "intent_category_name": "Foco-Agua",
+              "intent_emoji_id": "9qYeloEIeg",
+              "intent_emoji_unicode": "1f621"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/324a7322-a31d-431b-9c0a-22470910664d.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/324a7322-a31d-431b-9c0a-22470910664d.jpeg"
+          },
+
+          "media_type": "photo"
+        },
+        {
+          "when": {
+            "start_time": "2016-07-06T17:51:07.359Z",
+            "end_time": "2016-07-06T17:51:09.276Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.64336,
+              "longitude": -117.84204
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.643574,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "duration": 1917,
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/a7095c98-7630-47c7-89d0-8e4ef38cad0e.3gp",
+            "mime_type": "audio/3gpp"
+          },
+          "media_type": "audio"
+        }
+      ],
+      "start_time": "2016-07-06T17:51:06.149Z",
+      "end_time": "2016-07-06T17:51:09.276Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "partly-cloudy-day",
+          "record_time": 1467827466,
+          "temperature": 21.88,
+          "max_temperature_day": 23.78,
+          "max_temperature_record_time": 1467842400,
+          "min_temperature_day": 17.56,
+          "min_temperature_record_time": 1467792000,
+          "humidity": 0.67,
+          "pressure": 1014.7,
+          "wind_speed": 1.99,
+          "wind_bearing": 235,
+          "cloud_cover": 0.84,
+          "summary": "Mostly Cloudy"
+        }
+      }
+    },
+
+    {
+      "id": "9KVWpvoQLO",
+      "media": [
+        {
+          "when": {
+            "start_time": "2016-06-24T20:13:31.965Z",
+            "end_time": "2016-06-24T20:13:31.965Z"
+          },
+          "where": {
+            "geo_location": {
+              "latitude": 33.641792,
+              "longitude": -117.841354
+            },
+            "revgeo_places": [
+              {
+
+                "country": "United States",
+                "latitude": 33.641804,
+                "longitude": -44.0
+
+
+
+              }
+            ]
+          },
+          "why": [
+            {
+
+              "intent_index_in_category": 2,
+              "dod": 7,
+
+              "intent_category_name": "Health",
+              "intent_emoji_id": "0xDoK1wgBc",
+              "intent_emoji_unicode": "1f41b"
+            }
+          ],
+          "who": {
+            "creator": [
+              {
+                "first_name": "JohnQ",
+                "last_name": "Public"
+              }
+            ]
+          },
+          "media_source": {
+            "default_src": "https://d3j4aoik7k8ki7.cloudfront.net/b4759c46-b47b-4b08-ae6d-39346d8ab234.jpeg",
+            "mime_type": "image/jpeg",
+            "raw": "https://d3j4aoik7k8ki7.cloudfront.net/b4759c46-b47b-4b08-ae6d-39346d8ab234.jpeg"
+          },
+
+          "media_type": "photo"
+        }
+      ],
+      "start_time": "2016-06-24T20:13:31.965Z",
+      "end_time": "2016-06-24T20:13:31.965Z",
+      "environment_measure": {
+        "unit": "si",
+        "weather": {
+          "type": "clear-day",
+          "record_time": 1466799211,
+          "temperature": 23.13,
+          "max_temperature_day": 25.34,
+          "max_temperature_record_time": 1466812800,
+          "min_temperature_day": 17.58,
+          "min_temperature_record_time": 1466766000,
+          "humidity": 0.69,
+          "pressure": 1011.9,
+          "wind_speed": 3.08,
+          "wind_bearing": 226,
+          "cloud_cover": 0.13,
+          "summary": "Clear"
+        }
+      }
+    }
+  ],
+  "count": 81
+}
