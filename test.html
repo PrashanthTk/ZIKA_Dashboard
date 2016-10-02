@@ -24,6 +24,7 @@
 	  <script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD0aC3cyf5-0XlU4YaxuGeo2D-jaiKLieM&callback=initialize">
     </script>
+<<<<<<< HEAD
 	
 	
 	<script src="vis/dist/vis.js"></script>
@@ -34,6 +35,65 @@
 	
   </head>
   <body onload=init()>
+=======
+<script type="text/javascript">
+      // Loop through the results array and place a marker for each
+      // set of coordinates.
+	  var marker=[],imgurl_list=[];
+	  
+	  function loader()
+	  {
+      $.getJSON('js/events.json', function(results) {
+        for (var i = 0; i < results.reports.length; i++) {
+          var stuff=results.reports[i].media[0];
+		  //console.log(stuff.media_source.default_src);
+          var coords = stuff.where.geo_location;
+          var latLng = new google.maps.LatLng(coords.latitude,coords.longitude);
+        
+          imgurl_list[i]=stuff.media_source.default_src;
+           marker[i]=
+          {
+              markerpoint : new google.maps.Marker({
+                position: latLng,
+                map: map,
+                 imgurl:stuff.media_source.default_src,
+			  index:i,
+              }),
+
+             // startup: function(media){
+              
+              //console.log("Hello");
+              //}
+              
+          
+          }
+		 
+		  //console.log(marker[i].index);
+		  
+		 
+          marker[i].markerpoint.addListener('click',function(){
+                if (typeof(stuff.media_source) == "undefined")alert("Damn");
+                else
+				{
+                    document.getElementById('imgdisplay').src=this.imgurl;           
+                    //var report=results.reports[i].media[0].media_source.default_src;
+					console.log(this.index)
+					//chumma(i);
+					//console.log(marker[i].index);
+					//console.log(marker[i].index);
+				}
+              
+              
+              });
+			  
+			
+        }
+      });
+	  }
+    </script>
+  </head>
+  <body>
+>>>>>>> 18d5eb930b3733895ac4ae4867d9e6278f6a1d5d
     <div id="map"></div>
     
     
@@ -41,7 +101,10 @@
     <img id="imgdisplay" style="width: 100%;height:100%;"></img>
     </div>
 	<button onclick=loader()>Load data</button>
+<<<<<<< HEAD
 	<div id="visualization"></div>
+=======
+>>>>>>> 18d5eb930b3733895ac4ae4867d9e6278f6a1d5d
   </body>
 </html>
 
