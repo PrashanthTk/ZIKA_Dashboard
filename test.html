@@ -7,7 +7,7 @@
         height: 400px;
      }
     </style>
-	<script src="js/jquery-1.10.2.js"></script>
+    <script src="js/jquery-1.10.2.js"></script>
     <script>
       var map;
 
@@ -19,57 +19,29 @@
         });
 
          
-	  }
-
-      // Loop through the results array and place a marker for each
-      // set of coordinates.
-      $.getJSON('js/events.json', function(results) {
-        for (var i = 0; i < results.reports.length; i++) {
-		  var stuff=results.reports[i].media[0];
-          var coords = stuff.where.geo_location;
-          var latLng = new google.maps.LatLng(coords.latitude,coords.longitude);
-        /*  var marker = new google.maps.Marker({
-            position: latLng,
-            map: map
-          });*/
-		  
-		  var marker=
-		  {
-			  markerpoint : new google.maps.Marker({
-				position: latLng,
-				map: map,
-				
-			  }),
-			 // startup: function(media){
-			  
-			  //console.log("Hello");
-			  //}
-			  
-		  
-		  }
-		  marker.markerpoint.addListener('click',function(){
-				if (typeof(stuff.media_source) == "undefined")alert("Damn");
-				else
-					document.getElementById('imgdisplay').src=stuff.media_source.default_src;			
-					//var report=results.reports[i].media[0].media_source.default_src;
-				//console.log(media.media_source.default_src);
-			  
-			  
-			  });
-		  //marker.markerpoint.addListener('click',function(){alert("Good");});
-		  //marker.startup(stuff);
-        }
-      });
-    </script>
-  </head>
-  <body>
-    <div id="map"></div>
-    <script async defer
+      }
+      </script>
+	  <script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD0aC3cyf5-0XlU4YaxuGeo2D-jaiKLieM&callback=initialize">
     </script>
 	
-	<div id="img-container" style="height:150px;top:200px;width:150px;" >
-	<img id="imgdisplay" style="width: 100%;height:100%;"></img>
-	</div>
+	
+	<script src="vis/dist/vis.js"></script>
+  <link href="vis/dist/vis.css" rel="stylesheet" type="text/css" />
+  <script src="vis/examples/googleAnalytics.js"></script>
+	<script type="text/javascript" src="js/Zikrunner.js"></script>
+	
+	
+  </head>
+  <body onload=init()>
+    <div id="map"></div>
+    
+    
+    <div id="img-container" style="height:150px;top:200px;width:150px;" >
+    <img id="imgdisplay" style="width: 100%;height:100%;"></img>
+    </div>
+	<button onclick=loader()>Load data</button>
+	<div id="visualization"></div>
   </body>
 </html>
+
